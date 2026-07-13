@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a2e2e&height=300&section=header&text=%20Mohamed%20Amine&fontSize=64&fontAlignY=35&desc=Embedded%20AI%20%26%20Software%20Engineer%20%7C%20Multi-Agent%20Architecture%20%7C%20Full-Stack&descAlignY=55&fontColor=ffffff&descSize=18&animation=twinkling" width="100%" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=001f3f&height=300&section=header&text=%20Mohamed%20Amine%20Saad&fontSize=70&fontAlignY=35&desc=AI%20Developer%20%7C%20%20%20%20ROS2%2C%20C%2B%2B%2C%20Embedded%20Systems&descAlignY=55&fontColor=ffffff&descSize=20&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Elite Banner" />
   <br>
 
   <p>
