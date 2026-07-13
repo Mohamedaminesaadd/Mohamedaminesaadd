@@ -2,12 +2,12 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a2e2e&height=300&section=header&text=%20Mohamed%20Amine&fontSize=64&fontAlignY=35&desc=Embedded%20AI%20Engineer%20%7C%20Biomedical%20Signal%20Processing%20%7C%20Full-Stack&descAlignY=55&fontColor=ffffff&descSize=18&animation=twinkling" width="100%" alt="Banner" />
-  <br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a2e2e&height=300&section=header&text=%20Mohamed%20Amine&fontSize=64&fontAlignY=35&desc=Embedded%20AI%20%26%20Software%20Engineer%20%7C%20Multi-Agent%20Architecture%20%7C%20Full-Stack&descAlignY=55&fontColor=ffffff&descSize=18&animation=twinkling" width="100%" alt="Banner" />
+<br>
 
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=1abc9c&center=true&vCenter=true&width=850&lines=Embedded+AI+on+the+Edge+(ESP32);Physiological+Signal+Processing+(HRV%2C+ECG);Machine+Learning+%7C+Computer+Vision+%7C+MLOps;AI+Agents+%7C+RAG+%7C+LLM-powered+Apps;Full-Stack+Engineering+%7C+FastAPI%2C+React%2C+Angular" alt="Typing SVG" />
-  </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=1abc9c&center=true&vCenter=true&width=900&lines=Edge+AI+%26+Embedded+Systems;Physiological+Signal+Processing;Machine+Learning+%7C+Computer+Vision+%7C+MLOps;AI+Agents+%7C+RAG+%7C+LLM-Powered+Applications;Full-Stack+Engineering+%7C+FastAPI+%7C+React+%7C+Angular" alt="Typing SVG" />
+</p>
 
   <p>
     <a href="https://www.linkedin.com/in/mohamed-amine-50956b296/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
