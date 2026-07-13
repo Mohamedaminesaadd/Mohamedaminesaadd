@@ -26,7 +26,7 @@
 
 ## 👋 About Me
 
-Software Engineering student (final year, **ENIS — National Engineering School of Sfax**), specialized in deploying **AI on embedded hardware** and **physiological signal processing**. I build end-to-end AI systems, spanning embedded firmware (ESP32), AI agents, Retrieval-Augmented Generation (RAG), machine learning pipelines, and real-time backend architectures.
+Software Engineering student (final year, **ENIS — National Engineering School of Sfax**), specialized in deploying **AI on embedded hardware** and **Agnets and RAG**. I build end-to-end AI systems, spanning embedded firmware , AI agents, Retrieval-Augmented Generation (RAG), machine learning pipelines, and real-time backend architectures.
 
 
 - 🔬 **Focus** : Edge AI, Embedded Systems, Software Engineering & Intelligent Systems
@@ -114,7 +114,7 @@ Yocto Project, Device Tree, Cross-compilation
 
 | Project | Technologies |
 | :--- | :--- |
-| [HPIS — Human Performance Intelligence System](https://github.com/Mohamedaminesaadd/HIPS) | `ESP32` `ECG` `HRV` `FastAPI` `WebSockets` `InfluxDB` `XGBoost` |
+| [HPIS — Human Performance Intelligence System](https://github.com/Mohamedaminesaadd/HIPS) | `ESP32`  `HRV` `FastAPI` `WebSockets` `InfluxDB` `XGBoost` |
 | Wearable Sensor Firmware *(Coming Soon)* | `ESP32` `BLE` `MAX30102` `AD8232` `Real-Time Streaming` |
 
 </details>
