@@ -54,17 +54,15 @@ Software Engineering student (final year, **ENIS — National Engineering School
 
 <br>
 
-| 🌐 Web, Mobile & Runtimes | 📟 Embedded, IoT & OS 
-|:---:|:---:|:---:|
-| <br><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,vue,svelte,solidjs,astro,htmx,tailwind,bootstrap,sass,nodejs,express,fastapi,flask,django,nestjs,laravel,rails,deno,bun,workers,apollo,graphql,flutter&perline=7" /><br> | <br><img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,fedora,kali,arch,mint,redhat,bsd,nix,plan9,apple,windows,ros,arduino,raspberrypi,bevy,godot,unity,unreal&perline=5" /><br> |
+| 🌐 Web, Mobile & Runtimes | 📟 Embedded, IoT & OS |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=html,css,react,angular,nodejs,fastapi,flutter&perline=7" /> | <img src="https://skillicons.dev/icons?i=linux,ubuntu,arduino,raspberrypi&perline=4" /> |
 
 <br>
 
-| 🗄️ Databases & Storage | 
+| 🗄️ Databases & Storage | ☁️ DevOps |
 |:---:|:---:|
-| <br><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,cassandra,dynamodb,neo4j,planetscale,supabase,appwrite,firebase&perline=6" /><br> |
-
-</div>
+| <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis&perline=5" /> | <img src="https://skillicons.dev/icons?i=docker&perline=1" /> |
 
 </div>
 
