@@ -6,7 +6,7 @@
   <br>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=1abc9c&center=true&vCenter=true&width=850&lines=EEdge+AI+%26+Embedded+Systems;Physiological+Signal+Processing;Machine+Learning+%7C+Computer+Vision+%7C+MLOps;AI+Agents+%7C+RAG+%7C+LLM-Powered+Applications;Full-Stack+Engineering+%7C+FastAPI+%7C+React+%7C+Angular" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=1abc9c&center=true&vCenter=true&width=850&lines=Edge+AI+%26+Embedded+Systems;Physiological+Signal+Processing;Machine+Learning+%7C+Computer+Vision+%7C+MLOps;AI+Agents+%7C+RAG+%7C+LLM-Powered+Applications;Full-Stack+Engineering+%7C+FastAPI+%7C+React+%7C+Angular" alt="Typing SVG" />
   </p>
 
   <p>
@@ -34,8 +34,7 @@ Software Engineering student (final year, **ENIS — National Engineering School
 - 🧠 **ML** : intelligent systems for data analysis, prediction and real-time decision-making — from data engineering to deployment (Computer Vision / YOLO, MLOps)
 - ⚡ **Full-Stack** : FastAPI, React, Angular, PostgreSQL, InfluxDB, Redis, Kafka, WebSockets, Docker, Kubernetes, CI/CD
 - 🤖 **AI Agents & Generative AI** : autonomous agents, RAG pipelines and LLM-powered apps (LangChain, CrewAI, n8n)
-🐧 **Embedded Linux:** Linux kernel fundamentals, Bootloader (U-Boot), Buildroot, 
-Yocto Project, Device Tree, Cross-compilation
+- 🐧 **Embedded Linux:** Linux kernel fundamentals, Bootloader (U-Boot), Buildroot, Yocto Project, Device Tree, Cross-compilation
 - 🔐 **Security Engineering:** SIEM, Intrusion Detection, Security Monitoring, Threat Detection, Log Analysis
 - 🛠️ **Security Stack:** Wazuh, Suricata, Zeek, ELK Stack, Linux Security
 
@@ -55,15 +54,15 @@ Yocto Project, Device Tree, Cross-compilation
 
 <br>
 
-| 🌐 Web, Mobile & Runtimes | 📟 Embedded, IoT & OS | 🧰 Tools & Design Suite |
+| 🌐 Web, Mobile & Runtimes | 📟 Embedded, IoT & OS 
 |:---:|:---:|:---:|
-| <br><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,vue,svelte,solidjs,astro,htmx,tailwind,bootstrap,sass,nodejs,express,fastapi,flask,django,nestjs,laravel,rails,deno,bun,workers,apollo,graphql,flutter&perline=7" /><br> | <br><img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,fedora,kali,arch,mint,redhat,bsd,nix,plan9,apple,windows,ros,arduino,raspberrypi,bevy,godot,unity,unreal&perline=5" /><br> | <br><img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,vim,neovim,emacs,clion,pycharm,idea,postman,npm,yarn,pnpm,figma,sketchup,blender,autocad,ps,ai,ae,pr,xd,obsidian,notion,discord,slack&perline=7" /><br> |
+| <br><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,vue,svelte,solidjs,astro,htmx,tailwind,bootstrap,sass,nodejs,express,fastapi,flask,django,nestjs,laravel,rails,deno,bun,workers,apollo,graphql,flutter&perline=7" /><br> | <br><img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,fedora,kali,arch,mint,redhat,bsd,nix,plan9,apple,windows,ros,arduino,raspberrypi,bevy,godot,unity,unreal&perline=5" /><br> |
 
 <br>
 
-| 🗄️ Databases & Storage | ♾️ Meta & Productivity |
+| 🗄️ Databases & Storage | 
 |:---:|:---:|
-| <br><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,cassandra,dynamodb,neo4j,planetscale,supabase,appwrite,firebase&perline=6" /><br> | <br><img src="https://skillicons.dev/icons?i=stackoverflow,github,gitlab,bitbucket,discord,slack,instagram,linkedin,twitter,md,fediverse,activitypub&perline=6" /><br> |
+| <br><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,cassandra,dynamodb,neo4j,planetscale,supabase,appwrite,firebase&perline=6" /><br> |
 
 </div>
 
