@@ -2,27 +2,33 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a2e2e&height=300&section=header&text=%20Mohamed%20Amine&fontSize=64&fontAlignY=35&desc=Embedded%20AI%20Engineer%20%7C%20Biomedical%20Signal%20Processing%20%7C%20Full-Stack&descAlignY=55&fontColor=ffffff&descSize=18&animation=twinkling" width="100%" alt="Banner" />
-  <br>
+<div align="center">
 
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=1abc9c&center=true&vCenter=true&width=850&lines=Embedded+AI+on+the+Edge+(ESP32);Physiological+Signal+Processing+(HRV%2C+ECG);Machine+Learning+%7C+Computer+Vision+%7C+MLOps;AI+Agents+%7C+RAG+%7C+LLM-powered+Apps;Full-Stack+Engineering+%7C+FastAPI%2C+React%2C+Angular" alt="Typing SVG" />
-  </p>
+| 🏗️ Core Languages & Logic | 🧠 AI, Data & Intelligence | 🛡️ Infra, Cloud & DevOps |
+|:---:|:---:|:---:|
+| <br><img src="https://skillicons.dev/icons?i=py,cpp,c,cs,js,ts,go,rust,java,solidity,haskell,elixir,clojure,erlang,julia,php,ruby,perl,zig,r,fortran,swift,kotlin,dart,lua,forth,nim,ocaml,pkl,scala,v,vala,wasm,haxe&perline=6" /><br> | <br><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,numpy,pandas,matlab,octave,anaconda,d3,grafana,prometheus,regex,processing&perline=5" /><br> | <br><img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,githubactions,jenkins,aws,gcp,azure,nginx,cloudflare,terraform,ansible,vagrant,openshift,openstack,vercel,netlify,heroku&perline=5" /><br> |
 
-  <p>
-    <a href="https://www.linkedin.com/in/mohamed-amine-50956b296/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/Mohamedaminesaadd"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://huggingface.co/moahmedamine"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Profile-FFD21E?style=for-the-badge&logoColor=black" /></a>
-    <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
+<br>
+
+| 🌐 Web, Mobile & Runtimes | 📟 Embedded, IoT & OS | 🧰 Tools & Design Suite |
+|:---:|:---:|:---:|
+| <br><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,vue,svelte,solidjs,astro,htmx,tailwind,bootstrap,sass,nodejs,express,fastapi,flask,django,nestjs,laravel,rails,deno,bun,workers,apollo,graphql,flutter&perline=7" /><br> | <br><img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,fedora,kali,arch,mint,redhat,bsd,nix,plan9,apple,windows,ros,arduino,raspberrypi,bevy,godot,unity,unreal&perline=5" /><br> | <br><img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,vim,neovim,emacs,clion,pycharm,idea,postman,npm,yarn,pnpm,figma,sketchup,blender,autocad,ps,ai,ae,pr,xd,obsidian,notion,discord,slack&perline=7" /><br> |
+
+<br>
+
+| 🗄️ Databases & Storage | ♾️ Meta & Productivity |
+|:---:|:---:|
+| <br><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,cassandra,dynamodb,neo4j,planetscale,supabase,appwrite,firebase&perline=6" /><br> | <br><img src="https://skillicons.dev/icons?i=stackoverflow,github,gitlab,bitbucket,discord,slack,instagram,linkedin,twitter,md,fediverse,activitypub&perline=6" /><br> |
 
 </div>
 
----
+</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
+
+
 
 ## 👋 About Me
 
